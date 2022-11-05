@@ -15,8 +15,6 @@ const Mission = () => {
   )
 }
 
-
-
 const AboutScreen = () => {
   const [partners, setPartners] = useState(PARTNERS);
 
