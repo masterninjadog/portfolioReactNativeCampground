@@ -17,7 +17,7 @@ const Mission = () => {
 
 const AboutScreen = () => {
   const [partners, setPartners] = useState(PARTNERS);
-  console.log(intending to break);
+  console.log("working");
   return(
     <ScrollView>
       <Mission />
